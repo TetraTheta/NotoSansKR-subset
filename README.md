@@ -14,7 +14,7 @@ Google Font가 있지만, 개인적인 취향으로 인해 서브셋을 만들�
 <link href="/path/to/NotoSansKR-subset-local.css" rel="stylesheet">
 ```
 ```css
-@import url('//cdn.jsdelivr.net/gh/teamYOMI/NotoSansKR-subset/NotoSansKR-subset-web.css')
+@import url('//cdn.jsdelivr.net/gh/teamYOMI/NotoSansKR-subset/NotoSansKR-subset-web.css');
 ```
 이후 `font-family`에서 `NotoSansKR-subset`을 사용하시면 됩니다.
 

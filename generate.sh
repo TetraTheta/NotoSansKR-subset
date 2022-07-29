@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source ./Scripts/activate
+
 FONT1="Noto Sans CJK KR Regular"
 FONT1_FILE="NotoSansCJKkr-Regular.otf"
 FONT1_NEW_FILE="NotoSansKR-Regular-subset"

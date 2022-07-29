@@ -177,6 +177,9 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,venv
 
+# Ignore share
+/share
+
 # Ignore all types of font except WOFF/WOFF2
 *.abf
 *.acfm

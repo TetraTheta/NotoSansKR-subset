@@ -11,7 +11,7 @@ Google Font가 있지만, 개인적인 취향으로 인해 서브셋을 만들�
 ```
 웹폰트 파일들을 서버에 둘 수 없다면 jsDelivr를 사용할 수도 있습니다.
 ```html
-<link href="/path/to/NotoSansKR-subset-local.css" rel="stylesheet">
+<link href="//cdn.jsdelivr.net/gh/TetraTheta/NotoSansKR-subset/dist/style/NotoSansKR-subset-web.css" rel="stylesheet">
 ```
 ```css
 @import url('//cdn.jsdelivr.net/gh/TetraTheta/NotoSansKR-subset/dist/style/NotoSansKR-subset-web.css');

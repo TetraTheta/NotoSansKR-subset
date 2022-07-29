@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'NotoSansKR-subset';
+    font-weight: 400;
+    src: local('Noto Sans CJK KR'),
+         url('//cdn.jsdelivr.net/gh/TetraTheta/NotoSansKR-subset/dist/webfont/NotoSansKR-Regular-subset.woff2') format('woff2'),
+         url('//cdn.jsdelivr.net/gh/TetraTheta/NotoSansKR-subset/dist/webfont/NotoSansKR-Regular-subset.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'NotoSansKR-subset';
+    font-weight: 700;
+    src: local('Noto Sans CJK KR Bold'),
+         url('//cdn.jsdelivr.net/gh/TetraTheta/NotoSansKR-subset/dist/webfont/NotoSansKR-Bold-subset.woff2') format('woff2'),
+         url('//cdn.jsdelivr.net/gh/TetraTheta/NotoSansKR-subset/dist/webfont/NotoSansKR-Bold-subset.woff') format('woff');
+  }

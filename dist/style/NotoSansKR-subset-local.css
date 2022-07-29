@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'NotoSansKR-subset';
+  font-weight: 400;
+  src: local('Noto Sans CJK KR'),
+       url('../webfont/NotoSansKR-Regular-subset.woff2') format('woff2'),
+       url('../webfont/NotoSansKR-Regular-subset.woff') format('woff');
+}
+@font-face {
+  font-family: 'NotoSansKR-subset';
+  font-weight: 700;
+  src: local('Noto Sans CJK KR Bold'),
+       url('../webfont/NotoSansKR-Bold-subset.woff2') format('woff2'),
+       url('../webfont/NotoSansKR-Bold-subset.woff') format('woff');
+}
